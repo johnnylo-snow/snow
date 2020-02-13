@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="test choice" max_length="40" name="x_snc_choice_lo_test_choice" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="choice one" max_length="40" name="choice_one" type="string">
+            <choice/>
+        </element>
+    </element>
+</database>
